@@ -117,7 +117,8 @@
 
 Скриншот меню Issues с полученными событиями:
 
-<img width="912" height="742" alt="2026-05-25_11-40-04" src="https://github.com/user-attachments/assets/c48f77e7-bd9d-4455-a92b-68c05a607773" />
+<img width="1251" height="454" alt="2026-05-25_11-46-40" src="https://github.com/user-attachments/assets/c1ed5f2a-6315-4808-83d4-05972edad103" />
+
 
 
 
